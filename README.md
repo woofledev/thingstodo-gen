@@ -1,4 +1,4 @@
 # thingstodo-gen
 A "thing to do" generator, all written in Python.
 ## usage
-Clone this repository and open `main.py`. Make sure you have installed `requests` using `pip install requests`.
+Download `main.py` from this repository (or copy the contents of it to a py file) and run it.
